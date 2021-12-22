@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\Konsol_Programlama\bin\Debug\net6.0\Konsol_Programlama.exe
+D:\Programlama\Kodluyoruz_C_Sharp\Konsol_Programlama\bin\Debug\net6.0\Konsol_Programlama.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\Konsol_Programlama\bin\Debug\net6.0\Konsol_Programlama.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\Konsol_Programlama\bin\Debug\net6.0\Konsol_Programlama.dll
+D:\Programlama\Kodluyoruz_C_Sharp\Konsol_Programlama\bin\Debug\net6.0\ref\Konsol_Programlama.dll
+D:\Programlama\Kodluyoruz_C_Sharp\Konsol_Programlama\bin\Debug\net6.0\Konsol_Programlama.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\Konsol_Programlama\obj\Debug\net6.0\Konsol_Programlama.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\Konsol_Programlama\obj\Debug\net6.0\Konsol_Programlama.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\Konsol_Programlama\obj\Debug\net6.0\Konsol_Programlama.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\Konsol_Programlama\obj\Debug\net6.0\Konsol_Programlama.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\Konsol_Programlama\obj\Debug\net6.0\Konsol_Programlama.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\Konsol_Programlama\obj\Debug\net6.0\Konsol_Programlama.dll
+D:\Programlama\Kodluyoruz_C_Sharp\Konsol_Programlama\obj\Debug\net6.0\ref\Konsol_Programlama.dll
+D:\Programlama\Kodluyoruz_C_Sharp\Konsol_Programlama\obj\Debug\net6.0\Konsol_Programlama.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\Konsol_Programlama\obj\Debug\net6.0\Konsol_Programlama.genruntimeconfig.cache
