@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\degisken\bin\Debug\net6.0\degisken.exe
+D:\Programlama\Kodluyoruz_C_Sharp\degisken\bin\Debug\net6.0\degisken.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\degisken\bin\Debug\net6.0\degisken.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\degisken\bin\Debug\net6.0\degisken.dll
+D:\Programlama\Kodluyoruz_C_Sharp\degisken\bin\Debug\net6.0\ref\degisken.dll
+D:\Programlama\Kodluyoruz_C_Sharp\degisken\bin\Debug\net6.0\degisken.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\degisken\obj\Debug\net6.0\degisken.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\degisken\obj\Debug\net6.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\degisken\obj\Debug\net6.0\degisken.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\degisken\obj\Debug\net6.0\degisken.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\degisken\obj\Debug\net6.0\degisken.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\degisken\obj\Debug\net6.0\degisken.dll
+D:\Programlama\Kodluyoruz_C_Sharp\degisken\obj\Debug\net6.0\ref\degisken.dll
+D:\Programlama\Kodluyoruz_C_Sharp\degisken\obj\Debug\net6.0\degisken.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\degisken\obj\Debug\net6.0\degisken.genruntimeconfig.cache
