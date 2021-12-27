@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\tip_donusumleri\bin\Debug\net6.0\tip_donusumleri.exe
+D:\Programlama\Kodluyoruz_C_Sharp\tip_donusumleri\bin\Debug\net6.0\tip_donusumleri.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\tip_donusumleri\bin\Debug\net6.0\tip_donusumleri.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\tip_donusumleri\bin\Debug\net6.0\tip_donusumleri.dll
+D:\Programlama\Kodluyoruz_C_Sharp\tip_donusumleri\bin\Debug\net6.0\ref\tip_donusumleri.dll
+D:\Programlama\Kodluyoruz_C_Sharp\tip_donusumleri\bin\Debug\net6.0\tip_donusumleri.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\tip_donusumleri\obj\Debug\net6.0\tip_donusumleri.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\tip_donusumleri\obj\Debug\net6.0\tip_donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\tip_donusumleri\obj\Debug\net6.0\tip_donusumleri.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\tip_donusumleri\obj\Debug\net6.0\tip_donusumleri.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\tip_donusumleri\obj\Debug\net6.0\tip_donusumleri.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\tip_donusumleri\obj\Debug\net6.0\tip_donusumleri.dll
+D:\Programlama\Kodluyoruz_C_Sharp\tip_donusumleri\obj\Debug\net6.0\ref\tip_donusumleri.dll
+D:\Programlama\Kodluyoruz_C_Sharp\tip_donusumleri\obj\Debug\net6.0\tip_donusumleri.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\tip_donusumleri\obj\Debug\net6.0\tip_donusumleri.genruntimeconfig.cache
