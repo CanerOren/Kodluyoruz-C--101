@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\if-else-if\bin\Debug\net6.0\if-else-if.exe
+D:\Programlama\Kodluyoruz_C_Sharp\if-else-if\bin\Debug\net6.0\if-else-if.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\if-else-if\bin\Debug\net6.0\if-else-if.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\if-else-if\bin\Debug\net6.0\if-else-if.dll
+D:\Programlama\Kodluyoruz_C_Sharp\if-else-if\bin\Debug\net6.0\ref\if-else-if.dll
+D:\Programlama\Kodluyoruz_C_Sharp\if-else-if\bin\Debug\net6.0\if-else-if.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\if-else-if\obj\Debug\net6.0\if-else-if.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\if-else-if\obj\Debug\net6.0\if-else-if.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\if-else-if\obj\Debug\net6.0\if-else-if.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\if-else-if\obj\Debug\net6.0\if-else-if.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\if-else-if\obj\Debug\net6.0\if-else-if.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\if-else-if\obj\Debug\net6.0\if-else-if.dll
+D:\Programlama\Kodluyoruz_C_Sharp\if-else-if\obj\Debug\net6.0\ref\if-else-if.dll
+D:\Programlama\Kodluyoruz_C_Sharp\if-else-if\obj\Debug\net6.0\if-else-if.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\if-else-if\obj\Debug\net6.0\if-else-if.genruntimeconfig.cache
