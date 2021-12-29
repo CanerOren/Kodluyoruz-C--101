@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\switch-case\bin\Debug\net6.0\switch-case.exe
+D:\Programlama\Kodluyoruz_C_Sharp\switch-case\bin\Debug\net6.0\switch-case.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\switch-case\bin\Debug\net6.0\switch-case.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\switch-case\bin\Debug\net6.0\switch-case.dll
+D:\Programlama\Kodluyoruz_C_Sharp\switch-case\bin\Debug\net6.0\ref\switch-case.dll
+D:\Programlama\Kodluyoruz_C_Sharp\switch-case\bin\Debug\net6.0\switch-case.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\switch-case\obj\Debug\net6.0\switch-case.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\switch-case\obj\Debug\net6.0\switch-case.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\switch-case\obj\Debug\net6.0\switch-case.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\switch-case\obj\Debug\net6.0\switch-case.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\switch-case\obj\Debug\net6.0\switch-case.dll
+D:\Programlama\Kodluyoruz_C_Sharp\switch-case\obj\Debug\net6.0\ref\switch-case.dll
+D:\Programlama\Kodluyoruz_C_Sharp\switch-case\obj\Debug\net6.0\switch-case.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\switch-case\obj\Debug\net6.0\switch-case.genruntimeconfig.cache
