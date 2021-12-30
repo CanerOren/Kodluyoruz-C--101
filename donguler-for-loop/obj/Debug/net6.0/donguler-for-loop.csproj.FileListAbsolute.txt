@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.exe
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.dll
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-for-loop\bin\Debug\net6.0\ref\donguler-for-loop.dll
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-for-loop\bin\Debug\net6.0\donguler-for-loop.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.dll
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-for-loop\obj\Debug\net6.0\ref\donguler-for-loop.dll
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-for-loop\obj\Debug\net6.0\donguler-for-loop.genruntimeconfig.cache
