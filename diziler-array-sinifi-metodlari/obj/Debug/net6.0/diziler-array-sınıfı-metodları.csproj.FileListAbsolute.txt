@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\diziler-array-sinifi-metodlari\bin\Debug\net6.0\diziler-array-sınıfı-metodları.exe
+D:\Programlama\Kodluyoruz_C_Sharp\diziler-array-sinifi-metodlari\bin\Debug\net6.0\diziler-array-sınıfı-metodları.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\diziler-array-sinifi-metodlari\bin\Debug\net6.0\diziler-array-sınıfı-metodları.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\diziler-array-sinifi-metodlari\bin\Debug\net6.0\diziler-array-sınıfı-metodları.dll
+D:\Programlama\Kodluyoruz_C_Sharp\diziler-array-sinifi-metodlari\bin\Debug\net6.0\ref\diziler-array-sınıfı-metodları.dll
+D:\Programlama\Kodluyoruz_C_Sharp\diziler-array-sinifi-metodlari\bin\Debug\net6.0\diziler-array-sınıfı-metodları.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sınıfı-metodları.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sınıfı-metodları.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sınıfı-metodları.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sınıfı-metodları.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sınıfı-metodları.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sınıfı-metodları.dll
+D:\Programlama\Kodluyoruz_C_Sharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\ref\diziler-array-sınıfı-metodları.dll
+D:\Programlama\Kodluyoruz_C_Sharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sınıfı-metodları.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\diziler-array-sinifi-metodlari\obj\Debug\net6.0\diziler-array-sınıfı-metodları.genruntimeconfig.cache
