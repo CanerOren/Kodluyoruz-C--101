@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.exe
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.dll
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-while-foreach\bin\Debug\net6.0\ref\donguler-while-foreach.dll
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-while-foreach\bin\Debug\net6.0\donguler-while-foreach.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.dll
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-while-foreach\obj\Debug\net6.0\ref\donguler-while-foreach.dll
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\donguler-while-foreach\obj\Debug\net6.0\donguler-while-foreach.genruntimeconfig.cache
