@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\hazir-metotlar-datetime-math\bin\Debug\net6.0\hazir-metotlar-datetime-math.exe
+D:\Programlama\Kodluyoruz_C_Sharp\hazir-metotlar-datetime-math\bin\Debug\net6.0\hazir-metotlar-datetime-math.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\hazir-metotlar-datetime-math\bin\Debug\net6.0\hazir-metotlar-datetime-math.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\hazir-metotlar-datetime-math\bin\Debug\net6.0\hazir-metotlar-datetime-math.dll
+D:\Programlama\Kodluyoruz_C_Sharp\hazir-metotlar-datetime-math\bin\Debug\net6.0\ref\hazir-metotlar-datetime-math.dll
+D:\Programlama\Kodluyoruz_C_Sharp\hazir-metotlar-datetime-math\bin\Debug\net6.0\hazir-metotlar-datetime-math.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.dll
+D:\Programlama\Kodluyoruz_C_Sharp\hazir-metotlar-datetime-math\obj\Debug\net6.0\ref\hazir-metotlar-datetime-math.dll
+D:\Programlama\Kodluyoruz_C_Sharp\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\hazir-metotlar-datetime-math\obj\Debug\net6.0\hazir-metotlar-datetime-math.genruntimeconfig.cache
