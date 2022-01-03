@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\kurucu-metotlar\bin\Debug\net6.0\kurucu-metotlar.exe
+D:\Programlama\Kodluyoruz_C_Sharp\kurucu-metotlar\bin\Debug\net6.0\kurucu-metotlar.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\kurucu-metotlar\bin\Debug\net6.0\kurucu-metotlar.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\kurucu-metotlar\bin\Debug\net6.0\kurucu-metotlar.dll
+D:\Programlama\Kodluyoruz_C_Sharp\kurucu-metotlar\bin\Debug\net6.0\ref\kurucu-metotlar.dll
+D:\Programlama\Kodluyoruz_C_Sharp\kurucu-metotlar\bin\Debug\net6.0\kurucu-metotlar.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.dll
+D:\Programlama\Kodluyoruz_C_Sharp\kurucu-metotlar\obj\Debug\net6.0\ref\kurucu-metotlar.dll
+D:\Programlama\Kodluyoruz_C_Sharp\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\kurucu-metotlar\obj\Debug\net6.0\kurucu-metotlar.genruntimeconfig.cache
