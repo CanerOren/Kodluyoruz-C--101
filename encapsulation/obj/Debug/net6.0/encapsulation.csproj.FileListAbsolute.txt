@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\encapsulation\bin\Debug\net6.0\encapsulation.exe
+D:\Programlama\Kodluyoruz_C_Sharp\encapsulation\bin\Debug\net6.0\encapsulation.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\encapsulation\bin\Debug\net6.0\encapsulation.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\encapsulation\bin\Debug\net6.0\encapsulation.dll
+D:\Programlama\Kodluyoruz_C_Sharp\encapsulation\bin\Debug\net6.0\ref\encapsulation.dll
+D:\Programlama\Kodluyoruz_C_Sharp\encapsulation\bin\Debug\net6.0\encapsulation.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\encapsulation\obj\Debug\net6.0\encapsulation.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\encapsulation\obj\Debug\net6.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\encapsulation\obj\Debug\net6.0\encapsulation.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\encapsulation\obj\Debug\net6.0\encapsulation.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\encapsulation\obj\Debug\net6.0\encapsulation.dll
+D:\Programlama\Kodluyoruz_C_Sharp\encapsulation\obj\Debug\net6.0\ref\encapsulation.dll
+D:\Programlama\Kodluyoruz_C_Sharp\encapsulation\obj\Debug\net6.0\encapsulation.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\encapsulation\obj\Debug\net6.0\encapsulation.genruntimeconfig.cache
