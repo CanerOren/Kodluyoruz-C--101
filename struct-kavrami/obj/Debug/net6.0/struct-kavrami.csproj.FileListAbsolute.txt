@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\struct-kavrami\bin\Debug\net6.0\struct-kavrami.exe
+D:\Programlama\Kodluyoruz_C_Sharp\struct-kavrami\bin\Debug\net6.0\struct-kavrami.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\struct-kavrami\bin\Debug\net6.0\struct-kavrami.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\struct-kavrami\bin\Debug\net6.0\struct-kavrami.dll
+D:\Programlama\Kodluyoruz_C_Sharp\struct-kavrami\bin\Debug\net6.0\ref\struct-kavrami.dll
+D:\Programlama\Kodluyoruz_C_Sharp\struct-kavrami\bin\Debug\net6.0\struct-kavrami.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\struct-kavrami\obj\Debug\net6.0\struct-kavrami.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\struct-kavrami\obj\Debug\net6.0\struct-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\struct-kavrami\obj\Debug\net6.0\struct-kavrami.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\struct-kavrami\obj\Debug\net6.0\struct-kavrami.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\struct-kavrami\obj\Debug\net6.0\struct-kavrami.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\struct-kavrami\obj\Debug\net6.0\struct-kavrami.dll
+D:\Programlama\Kodluyoruz_C_Sharp\struct-kavrami\obj\Debug\net6.0\ref\struct-kavrami.dll
+D:\Programlama\Kodluyoruz_C_Sharp\struct-kavrami\obj\Debug\net6.0\struct-kavrami.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\struct-kavrami\obj\Debug\net6.0\struct-kavrami.genruntimeconfig.cache
