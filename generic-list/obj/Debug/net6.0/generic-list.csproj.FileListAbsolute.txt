@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\generic-list\bin\Debug\net6.0\generic-list.exe
+D:\Programlama\Kodluyoruz_C_Sharp\generic-list\bin\Debug\net6.0\generic-list.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\generic-list\bin\Debug\net6.0\generic-list.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\generic-list\bin\Debug\net6.0\generic-list.dll
+D:\Programlama\Kodluyoruz_C_Sharp\generic-list\bin\Debug\net6.0\ref\generic-list.dll
+D:\Programlama\Kodluyoruz_C_Sharp\generic-list\bin\Debug\net6.0\generic-list.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\generic-list\obj\Debug\net6.0\generic-list.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\generic-list\obj\Debug\net6.0\generic-list.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\generic-list\obj\Debug\net6.0\generic-list.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\generic-list\obj\Debug\net6.0\generic-list.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\generic-list\obj\Debug\net6.0\generic-list.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\generic-list\obj\Debug\net6.0\generic-list.dll
+D:\Programlama\Kodluyoruz_C_Sharp\generic-list\obj\Debug\net6.0\ref\generic-list.dll
+D:\Programlama\Kodluyoruz_C_Sharp\generic-list\obj\Debug\net6.0\generic-list.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\generic-list\obj\Debug\net6.0\generic-list.genruntimeconfig.cache
