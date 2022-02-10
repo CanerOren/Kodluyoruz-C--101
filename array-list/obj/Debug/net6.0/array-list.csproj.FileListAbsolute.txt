@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\array-list\bin\Debug\net6.0\array-list.exe
+D:\Programlama\Kodluyoruz_C_Sharp\array-list\bin\Debug\net6.0\array-list.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\array-list\bin\Debug\net6.0\array-list.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\array-list\bin\Debug\net6.0\array-list.dll
+D:\Programlama\Kodluyoruz_C_Sharp\array-list\bin\Debug\net6.0\ref\array-list.dll
+D:\Programlama\Kodluyoruz_C_Sharp\array-list\bin\Debug\net6.0\array-list.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\array-list\obj\Debug\net6.0\array-list.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\array-list\obj\Debug\net6.0\array-list.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\array-list\obj\Debug\net6.0\array-list.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\array-list\obj\Debug\net6.0\array-list.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\array-list\obj\Debug\net6.0\array-list.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\array-list\obj\Debug\net6.0\array-list.dll
+D:\Programlama\Kodluyoruz_C_Sharp\array-list\obj\Debug\net6.0\ref\array-list.dll
+D:\Programlama\Kodluyoruz_C_Sharp\array-list\obj\Debug\net6.0\array-list.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\array-list\obj\Debug\net6.0\array-list.genruntimeconfig.cache
