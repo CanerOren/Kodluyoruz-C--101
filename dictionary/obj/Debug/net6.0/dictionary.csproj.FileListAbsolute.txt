@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\dictionary\bin\Debug\net6.0\dictionary.exe
+D:\Programlama\Kodluyoruz_C_Sharp\dictionary\bin\Debug\net6.0\dictionary.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\dictionary\bin\Debug\net6.0\dictionary.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\dictionary\bin\Debug\net6.0\dictionary.dll
+D:\Programlama\Kodluyoruz_C_Sharp\dictionary\bin\Debug\net6.0\ref\dictionary.dll
+D:\Programlama\Kodluyoruz_C_Sharp\dictionary\bin\Debug\net6.0\dictionary.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\dictionary\obj\Debug\net6.0\dictionary.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\dictionary\obj\Debug\net6.0\dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\dictionary\obj\Debug\net6.0\dictionary.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\dictionary\obj\Debug\net6.0\dictionary.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\dictionary\obj\Debug\net6.0\dictionary.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\dictionary\obj\Debug\net6.0\dictionary.dll
+D:\Programlama\Kodluyoruz_C_Sharp\dictionary\obj\Debug\net6.0\ref\dictionary.dll
+D:\Programlama\Kodluyoruz_C_Sharp\dictionary\obj\Debug\net6.0\dictionary.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\dictionary\obj\Debug\net6.0\dictionary.genruntimeconfig.cache
