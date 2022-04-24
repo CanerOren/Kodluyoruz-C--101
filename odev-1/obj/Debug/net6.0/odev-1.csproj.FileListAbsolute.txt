@@ -1,0 +1,15 @@
+D:\Programlama\Kodluyoruz_C_Sharp\odev-1\bin\Debug\net6.0\odev-1.exe
+D:\Programlama\Kodluyoruz_C_Sharp\odev-1\bin\Debug\net6.0\odev-1.deps.json
+D:\Programlama\Kodluyoruz_C_Sharp\odev-1\bin\Debug\net6.0\odev-1.runtimeconfig.json
+D:\Programlama\Kodluyoruz_C_Sharp\odev-1\bin\Debug\net6.0\odev-1.dll
+D:\Programlama\Kodluyoruz_C_Sharp\odev-1\bin\Debug\net6.0\odev-1.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\odev-1\obj\Debug\net6.0\odev-1.csproj.AssemblyReference.cache
+D:\Programlama\Kodluyoruz_C_Sharp\odev-1\obj\Debug\net6.0\odev-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programlama\Kodluyoruz_C_Sharp\odev-1\obj\Debug\net6.0\odev-1.AssemblyInfoInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\odev-1\obj\Debug\net6.0\odev-1.AssemblyInfo.cs
+D:\Programlama\Kodluyoruz_C_Sharp\odev-1\obj\Debug\net6.0\odev-1.csproj.CoreCompileInputs.cache
+D:\Programlama\Kodluyoruz_C_Sharp\odev-1\obj\Debug\net6.0\odev-1.dll
+D:\Programlama\Kodluyoruz_C_Sharp\odev-1\obj\Debug\net6.0\refint\odev-1.dll
+D:\Programlama\Kodluyoruz_C_Sharp\odev-1\obj\Debug\net6.0\odev-1.pdb
+D:\Programlama\Kodluyoruz_C_Sharp\odev-1\obj\Debug\net6.0\odev-1.genruntimeconfig.cache
+D:\Programlama\Kodluyoruz_C_Sharp\odev-1\obj\Debug\net6.0\ref\odev-1.dll
